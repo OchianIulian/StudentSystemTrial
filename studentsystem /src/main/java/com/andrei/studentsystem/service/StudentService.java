@@ -1,6 +1,5 @@
 package com.andrei.studentsystem.service;
 
-import com.andrei.studentsystem.StudentsystemApplication;
 import com.andrei.studentsystem.model.Student;
 
 import java.util.List;
